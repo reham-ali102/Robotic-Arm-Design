@@ -40,7 +40,7 @@ This project aims to design a 3D robotic arm with 5 degrees of freedom using Tin
 
 You can download the 3D model of this robotic arm in `.STL` format using the link below:
 
-- [Download Robotic Arm STL File](**Add the link here**)
+- [Download Robotic Arm STL File](https://github.com/reham-ali102/Robotic-Arm-Design/blob/main/Robort%20Arams.stl)
 
 ## Advantages
 
